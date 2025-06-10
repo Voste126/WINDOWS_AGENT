@@ -1,0 +1,35 @@
+{
+  "host": "steve-HP-EliteBook-x360-1030-G3",
+  "events": [
+    {
+      "TimeGenerated": "2025-06-10T08:54:18Z",
+      "EventID": 1004,
+      "Source": "Windows Defender (fake)",
+      "Message": "Fake event #5 generated at 2025-06-10T08:54:18Z"
+    },
+    {
+      "TimeGenerated": "2025-06-10T08:56:18Z",
+      "EventID": 1003,
+      "Source": "Windows Defender (fake)",
+      "Message": "Fake event #4 generated at 2025-06-10T08:56:18Z"
+    },
+    {
+      "TimeGenerated": "2025-06-10T08:58:18Z",
+      "EventID": 1002,
+      "Source": "Windows Defender (fake)",
+      "Message": "Fake event #3 generated at 2025-06-10T08:58:18Z"
+    },
+    {
+      "TimeGenerated": "2025-06-10T09:00:18Z",
+      "EventID": 1001,
+      "Source": "Windows Defender (fake)",
+      "Message": "Fake event #2 generated at 2025-06-10T09:00:18Z"
+    },
+    {
+      "TimeGenerated": "2025-06-10T09:02:18Z",
+      "EventID": 1000,
+      "Source": "Windows Defender (fake)",
+      "Message": "Fake event #1 generated at 2025-06-10T09:02:18Z"
+    }
+  ]
+}
